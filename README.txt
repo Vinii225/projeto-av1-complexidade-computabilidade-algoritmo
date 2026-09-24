@@ -1,4 +1,4 @@
-PROJETO AV01 - VERSÃO DIVIDIDA EM CLASSES
+PROJETO AV01 
 
 Arquivos:
 - main.cpp       -> ponto de entrada
