@@ -1,0 +1,20 @@
+
+=========== MENU ===========
+[1] Contagem de ocorrências distintas
+[2] Pares em matriz triangular
+[3] Comparação de matrizes 3D
+[4] Casos assimétricos (par/ímpar + fatorial)
+[5] Elementos presentes em vetor ordenado
+[0] Sair
+Opção: Tamanho n do vetor principal: Tamanho k do vetor de buscados: Preencher como? [1] Manualmente  [2] Aleatoriamente: V = [ 8 10 4 4 4 ]
+Buscados = [ 5 13 15 9 14 ]
+Resultado: 0
+
+=========== MENU ===========
+[1] Contagem de ocorrências distintas
+[2] Pares em matriz triangular
+[3] Comparação de matrizes 3D
+[4] Casos assimétricos (par/ímpar + fatorial)
+[5] Elementos presentes em vetor ordenado
+[0] Sair
+Opção: 
